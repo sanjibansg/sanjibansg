@@ -70,7 +70,7 @@ Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/flat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.jpg?token=AJRJY36M2FKYLOKXLVX2V7K7NBIKY"></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/linux-tux.svg?token=AJRJY3ZWJ3H3JXRYOBL6VRS7NBE6A"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/linux-tux.svg?token=AJRJY3ZWJ3H3JXRYOBL6VRS7NBE6A"></a></code>  
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/iconfinder_97_Docker_logo_logos_4373190.png?token=AJRJY367GHW3ZXOQ4N6WNG27NBIDI"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/HERE_logo.svg.png?token=AJRJY367HV7IWH26LQZ6N5C7NBKD2"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/twilio-mark-red.png?token=AJRJY3ZGXQ4BNL6AUEPJT5C7NBKOE"></code> 
