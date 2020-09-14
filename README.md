@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/sanjiban-sengupta/">
   <img align="left" alt="kahanikaar's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="mailto:sanjiban.sg@gmail.com">
+  <img align="left" alt="kahanikaar's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.kaggle.com/sanjibansengupta">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
@@ -33,10 +36,9 @@ Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **
 
 - 👨🏽‍💻 I’m currently working on Aritificial Neural Networks, Application Development and Kernel Development.   
 - 🌱 I’m currently learning Blockchain,Cloud Computing,Reinforcement Learning. 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Blockchain, Security, Kernel.
+- 🤔 My interests are with Natural Language Processing/Understanding,Computer vision, Blockchain,Security,Kernel.
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via sanjiban.sg@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1uOVvdTlwI5Eusv8F6jqgpuBGMfIeyz7K/view?usp=sharing) to get more info.
 
 
