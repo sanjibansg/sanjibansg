@@ -42,10 +42,11 @@ Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/watson-ibm-question-answering-artificial-intelligence-natural-language-understanding-ibm.jpg?token=AJRJY35ZBWTJ4MQSLMG36VK7NBKQO"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/keras.png?token=AJRJY34UHXZGLVZSIZ3KCHC7NBIUC"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/scikit-learn-logo-notext-1.png?token=AJRJY34Y4IQEXDHJZWHQLMC7NBIZ4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/scipy.jpeg?token=AJRJY3755HVQIFBJFFAY2AS7NBI4Y"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/keras.png?token=AJRJY34UHXZGLVZSIZ3KCHC7NBIUC"></code>
 <code><img height="20" alt="matplotlib" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/Matplotlib_icon.svg.png?token=AJRJY373W43YDP6BBGAICSK7NBG5I"></code>
 <code><img height="20" alt="anaconda" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/OTQJVNSSIAHO-180x180.JPEG?token=AJRJY3Z3TBOTNEVPOEX4YWK7NBHCQ"></code>
 <code><img height="20" alt="colab" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/colab_favicon_256px.png?token=AJRJY346SYX2MDFHLI3FDW27NBHHG"></code>
@@ -56,17 +57,24 @@ Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/flask.svg?token=AJRJY36MBLXNLL4O2BJUJA27NBIHQ"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/mongodb.jpeg?token=AJRJY36BPCWLZUJJDN4FYYK7NBKKW"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/flask.svg?token=AJRJY36MBLXNLL4O2BJUJA27NBIHQ"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/heroku(1).png?token=AJRJY35U2LJIALDPUCB4L627NBKIA"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/java-14.svg?token=AJRJY3YMLCVSFOSZGWQBYNC7NBFIM"></code>
+<code><img height="20" alt="jsp" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/jsp.png?token=AJRJY34Q7AKKUUETJJJQ5WS7NBKUI"></code>
 <code><img height="20" src="https://github.com/kahanikaar/kahanikaar/blob/master/Files/golang-gopher.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/1200px-Ethereum-icon-purple.svg.png?token=AJRJY357I5VUC3M7FBWR72C7NBJ26"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/1300px-Solidity_logo.svg.png?token=AJRJY35TE64Z4JSS5LTRZK27NBJ7O"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/flat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.jpg?token=AJRJY36M2FKYLOKXLVX2V7K7NBIKY"></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/linux-tux.svg?token=AJRJY3ZWJ3H3JXRYOBL6VRS7NBE6A"></a></code>
-<code><img height="20" alt="metasploit" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/java-14.svg?token=AJRJY3YMLCVSFOSZGWQBYNC7NBFIM"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/iconfinder_97_Docker_logo_logos_4373190.png?token=AJRJY367GHW3ZXOQ4N6WNG27NBIDI"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/a52d4ad9c51d870ee0811c894d4faaf919e03988/Files/visual-studio-code-1.svg?token=AJRJY337TYMCZN3BWCJEWPS7L4L2K"></code>  
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/iconfinder_97_Docker_logo_logos_4373190.png?token=AJRJY367GHW3ZXOQ4N6WNG27NBIDI"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/HERE_logo.svg.png?token=AJRJY367HV7IWH26LQZ6N5C7NBKD2"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/twilio-mark-red.png?token=AJRJY3ZGXQ4BNL6AUEPJT5C7NBKOE"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/9dcb48195bc0da24f57453300beedca42fb86078/Files/visual-studio-code-1.svg?token=AJRJY37IEN3WFGSH4W52NTK7L4N3U"></code>  
 
 ![kahanikaar's github stats](https://github-readme-stats.vercel.app/api?username=kahanikaar&show_icons=true&hide_border=true)
 
