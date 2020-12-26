@@ -28,7 +28,7 @@
 <br />
 <br />
 
-Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **Computer Engineering undergrad** 🚀 from *IIIT  Bhubaneswar*, currently, I'm the Computer Vision Intern 🙍🏽‍ [@Campus24](https://www.linkedin.com/company/campus24/),and Mentoring Projects at Contributor's Hack  👨🏽‍💼[@HakinCodes](https://www.github.com/hakincodes). 
+Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **Computer Engineering undergrad** 🚀 from *IIIT  Bhubaneswar*, I worked as the Data Science & Business Analytics Intern with The Sparks Foundation and as the Computer Vision Intern 🙍🏽‍ [@Campus24](https://www.linkedin.com/company/campus24/), Mentored Projects at Contributor's Hack,  👨🏽‍💼[@HakinCodes](https://www.github.com/hakincodes), Semester Long Projects'20 by [@ossdaaict](https://www.github.com/ossdaiict) and Administrating Projects at [@Script-Winter-of-Code](https://www.github.com/script-winter-of-code) [@DevScript](https://www.github.com/devscript)
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -39,7 +39,7 @@ Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **
 - 🤔 My interests are with Natural Language Processing/Understanding,Computer vision, Blockchain,Security,Kernel.
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering.
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my [Resume](https://drive.google.com/file/d/1uOVvdTlwI5Eusv8F6jqgpuBGMfIeyz7K/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1OxcqykyI8VdrTJebq4QJJvsBWKbTwV3M/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
