@@ -28,7 +28,7 @@
 <br />
 <br />
 
-Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **Computer Engineering undergrad** 🚀 from *IIIT  Bhubaneswar*, I worked as the Data Science & Business Analytics Intern with The Sparks Foundation and as the Computer Vision Intern 🙍🏽‍ [@Campus24](https://www.linkedin.com/company/campus24/), Mentored Projects at Contributor's Hack,  👨🏽‍💼[@HakinCodes](https://www.github.com/hakincodes), Semester Long Projects'20 by [@ossdaaict](https://www.github.com/ossdaiict) and Administrating Projects at [@Script-Winter-of-Code](https://www.github.com/script-winter-of-code) [@DevScript](https://www.github.com/devscript)
+Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **Computer Engineering undergrad** 🚀 from *IIIT  Bhubaneswar*, I worked as the Data Science & Business Analytics Intern with The Sparks Foundation and as the Computer Vision Intern 🙍🏽‍ [@Campus24](https://www.linkedin.com/company/campus24/), Mentored Projects at Contributor's Hack,  👨🏽‍💼[@HakinCodes](https://www.github.com/hakincodes), Semester Long Projects'20 by [@ossdaiict](https://www.github.com/ossdaiict) and Administrating Projects at [@Script-Winter-of-Code](https://www.github.com/script-winter-of-code) [@DevScript](https://www.github.com/devscript)
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
