@@ -78,6 +78,6 @@ Hi there, myself **Sanjiban Sengupta**, an **emerging tech enthusiast** and a **
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/master/Files/twilio-mark-red.png?token=AJRJY3ZGXQ4BNL6AUEPJT5C7NBKOE"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/kahanikaar/kahanikaar/9dcb48195bc0da24f57453300beedca42fb86078/Files/visual-studio-code-1.svg?token=AJRJY37IEN3WFGSH4W52NTK7L4N3U"></code>  
 
-![kahanikaar's github stats](https://github-readme-stats.vercel.app/api?username=kahanikaar&show_icons=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kahanikaar&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kahanikaar&layout=compact&langs_count=8&count_private=true&theme=radical"/>
 
 ⭐️ From [kahanikaar](https://github.com/kahanikaar)
