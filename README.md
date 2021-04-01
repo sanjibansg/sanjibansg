@@ -7,7 +7,7 @@
   <img align="left" alt="kahanikaar's email" width="30px" src="https://img.icons8.com/color/48/000000/mailbox-closed-flag-down--v2.png"/>
 </a>
 <a href="https://www.kaggle.com/sanjibansengupta">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  <img align="left" alt="Kaggle" width="30px" src= "https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="Avatar" >
 </a>
 <a href="https://www.twitter.com/kahanikaar_">
   <img align="left" alt="kahanikaar's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>
@@ -15,7 +15,7 @@
   <img align="left" alt="kahanikaar's fb" width="30px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>
 </a>
 <a href="https://www.quora.com/profile/Sanjiban-Sengupta">
-  <img align="left" alt="kahanikaar's quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+  <img align="left" alt="kahanikaar's quora" width="30px" src="https://www.shareicon.net/data/128x128/2016/10/18/844281_red_512x512.png">
 </a>
 <a href="https://t.me/sanjibansengupta">
   <img align="left" alt="kahanikaar's telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
