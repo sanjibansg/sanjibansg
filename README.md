@@ -1,25 +1,24 @@
 ### Hey 👋, It's me, Sanjiban!
 
 <a href="https://www.linkedin.com/in/sanjiban-sengupta/">
-  <img align="left" alt="kahanikaar's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="kahanikaar's LinkdeIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/>
 </a>
 <a href="mailto:sanjiban.sg@gmail.com">
-  <img align="left" alt="kahanikaar's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="kahanikaar's email" width="30px" src="https://img.icons8.com/color/48/000000/mailbox-closed-flag-down--v2.png"/>
 </a>
 <a href="https://www.kaggle.com/sanjibansengupta">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <a href="https://www.twitter.com/kahanikaar_">
-  <img align="left" alt="kahanikaar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  <img align="left" alt="kahanikaar's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>
 <a href="https://www.facebook.com/sanjiban.sg">
-  <img align="left" alt="kahanikaar's fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="kahanikaar's fb" width="30px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>
 </a>
 <a href="https://www.quora.com/profile/Sanjiban-Sengupta">
   <img align="left" alt="kahanikaar's quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
 <a href="https://t.me/sanjibansengupta">
-  <img align="left" alt="kahanikaar's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="kahanikaar's telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
 </a>
 
 
