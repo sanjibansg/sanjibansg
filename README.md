@@ -1,29 +1,21 @@
-### Hey 👋, It's me, Sanjiban!
+<h2 align="center">Hello, নমস্কার, नमस्ते, ନମସ୍କାର! </h2>
 
-<a href="https://www.linkedin.com/in/sanjiban-sengupta/">
-  <img align="left" alt="Sanjiban's LinkdeIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/>
+<p align="center">
+<a target="_blank" href="https://www.twitter.com/sanjibansg">
+<img height="32" width="32" src="https://cdn.simpleicons.org/twitter" />
 </a>
-<a href="mailto:sanjiban.sg@gmail.com">
-  <img align="left" alt="Sanjiban's email" width="30px" src="https://img.icons8.com/color/48/000000/mailbox-closed-flag-down--v2.png"/>
+<a target="_blank" href="https://www.linkedin.com/in/sanjiban-sengupta/">
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
 </a>
-<a href="https://www.kaggle.com/sanjibansengupta">
-  <img align="left" alt="Sanjiban's Kaggle" width="30px" src= "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Avatar" >
+<a target="_blank" href="mailto:sanjiban.sg@gmail.com">
+<img height="32" width="32" src="https://cdn.simpleicons.org/gmail" />
 </a>
-<a href="https://www.twitter.com/kahanikaar_">
-  <img align="left" alt="Sanjiban's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>
-<a href="https://www.facebook.com/sanjiban.sg">
-  <img align="left" alt="Sanjiban's fb" width="30px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>
-</a>
-<a href="https://www.quora.com/profile/Sanjiban-Sengupta">
-  <img align="left" alt="Sanjiban's quora" width="30px" src="https://www.shareicon.net/data/128x128/2016/10/18/844281_red_512x512.png">
-</a>
-<a href="https://t.me/sanjibansengupta">
-  <img align="left" alt="Sanjiban's telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
-</a>
-<a href="https://stackoverflow.com/users/11808364/sanjiban-sengupta">
-  <img align="left" alt="Sanjiban's stackovreflow" width="30px" src="https://www.iconsdb.com/icons/preview/tropical-blue/stackoverflow-4-xxl.png"/>
+<a target="_blank" href="mailto:sanjiban.sg@gmail.com">
+<img height="32" width="32" src="../files/../sanjibansg/Files/globe.png" />
 </a>
 
+
+</p>
 
 
 <br />
