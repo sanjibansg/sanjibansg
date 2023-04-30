@@ -12,6 +12,7 @@ I am currently working as a Software Engineer with the Data Engineering team at 
 
 I am also involved with the TMVA team of [CERN's ROOT Data Analysis Project](https://root.cern/) since my acceptance in Google Summer of Code 2021. Thereafter, I participated in the CERN Summer Student Program 2022 in Geneva, Switzerland. Currently, I am an External User contributing to the development of SOFIE - The Fast Machine Learning Inference Engine, and co-supervising the Google Summer of Code and CERN Summer Student Projects of ROOT's TMVA. 
 
+<br/>
 
 **quick-stuff:**
 - Primarily working on Artificial Intelligence, Data Engineering, everything data.
@@ -21,9 +22,8 @@ I am also involved with the TMVA team of [CERN's ROOT Data Analysis Project](htt
 - Find my resume [here](https://drive.google.com/drive/folders/1GfvWZsKu4RXfIwAe1YKNp7PxOOPgZRVe?usp=sharing).
 
 
-<br />
 <br/>
-
+<br/>
 <p align="center">
 <a target="_blank" href="https://www.twitter.com/sanjibansg">
 <img height="32" width="32" src="https://cdn.simpleicons.org/twitter" />
