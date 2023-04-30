@@ -10,7 +10,7 @@ I am currently working as a Software Engineer with the Data Engineering team at 
 
 <img align="right" length="40%" width="40%" src="https://raw.githubusercontent.com/sanjibansg/sanjibansg/dev/Files/IMG_20230501_033319.jpg" />
 
-I am also involved with the TMVA team of [CERN's ROOT Data Analysis Project](https://root.cern/) since my acceptance in Google Summer of Code 2021.<br/> Thereafter, I have participated in the CERN Summer Student Program 2022 in Geneva, Switzerland. <br/>Currently, I am an External User contributing to the development of SOFIE - The Fast Machine Learning Inference Engine.  
+I am also involved with the TMVA team of [CERN's ROOT Data Analysis Project](https://root.cern/) since my acceptance in Google Summer of Code 2021. Thereafter, I have participated in the CERN Summer Student Program 2022 in Geneva, Switzerland. Currently, I am an External User contributing to the development of SOFIE - The Fast Machine Learning Inference Engine.  
 
 
 <br />
