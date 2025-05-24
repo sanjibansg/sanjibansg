@@ -7,7 +7,7 @@ Hi there, myself **Sanjiban Sengupta!**
 
 I am currently a Doctoral Student at [CERN](https://home.cern/), affiliated to the [University of Manchester](https://manchester.ac.uk/) researching on optmization methods for efficient machine learning inference using heterogeneous architectures for the HL-LHC phase at CERN, funded by the [Next-Gen Triggers Project](https://nextgentriggers.web.cern.ch/).  
 
-I have been involved with the TMVA team of [CERN's ROOT Data Analysis Project](https://root.cern/) since my acceptance in Google Summer of Code 2021. Thereafter, I participated in the CERN Summer Student Program 2022 in Geneva, Switzerland. Currently, I am an External User contributing to the development of SOFIE - The Fast Machine Learning Inference Engine, and co-supervising the Google Summer of Code and CERN Summer Student Projects of ROOT's TMVA. 
+I have been involved with the TMVA team of [CERN's ROOT Data Analysis Project](https://root.cern/) since my acceptance in Google Summer of Code 2021. Thereafter, I participated in the CERN Summer Student Program 2022 in Geneva, Switzerland. I continue contributing as a doctoral student to the development of SOFIE- the tool for fast ML Inference, and co-supervising the Google Summer of Code and CERN Summer Student Projects of ROOT's TMVA. 
 
 <img align="right" height="45%" width="45%" src="https://raw.githubusercontent.com/sanjibansg/sanjibansg/master/Files/IMG_20230501_033319.jpg" />
 
